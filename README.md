@@ -3,8 +3,8 @@
 <h3 align="center">A Passionate Web Developer from Ahmedabad, Gujarat, India</h3>
 
 
-- 🔭 I’m currently working for [AssureCare Healthtech](hhttps://assurecare.com)
-- 🔭 I've worked for [iPatientCare](https://www.hawkdivemedia.com)
+- 🔭 I’m currently working for [AssureCare Healthtech](https://assurecare.com)
+- 🔭 I've worked for [iPatientCare](https://ipatientcare.com/)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/JunaidS111)
 
