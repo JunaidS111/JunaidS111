@@ -6,7 +6,7 @@
 - 🔭 I’m currently working for [AssureCare Healthtech](https://assurecare.com)
 - 🔭 I've worked for [iPatientCare](https://ipatientcare.com/)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/JunaidS111)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://junaids111.github.io/)
 
 - 🌱 I’m currently learning **ReactJS, AWS, Symfony**
 
