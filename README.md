@@ -1,16 +1,30 @@
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Junaid Shaikh</h1>
 <h3 align="center">A Passionate Web Developer from Ahmedabad, Gujarat, India</h3>
 
-- 🌱 I’m currently learning **Symfony Framework**
 
-- 💬 Ask me about **tech**
+- 🔭 I’m currently working for [AssureCare Healthtech](hhttps://assurecare.com)
+- 🔭 I've worked for [iPatientCare](https://www.hawkdivemedia.com)
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/JunaidS111)
+
+- 🌱 I’m currently learning **ReactJS, AWS, Symfony**
+
+- 📄 Know about my experiences [My Resume](#) 
+
+
+- 💬 Ask me about **PHP, WordPress, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **shekhjuned111@gmail.com**
 
+
+
+- ⚡ Fun fact **There are two ways to write error-free programs; only the third one works.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/junedshekh111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal95bd" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01fa64b6397f16f802" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/784bea3c3aba6ca5173e3e172d0f5507e7714230/images/svg/upwork.svg" alt="8773178" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/junedshekh111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junedshekh111" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01fa64b6397f16f802" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/784bea3c3aba6ca5173e3e172d0f5507e7714230/images/svg/upwork.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +45,7 @@
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 	</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JunaidS111&show_icons=true&locale=en&layout=compact" alt="JunaidS111" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JunaidS111&show_icons=true&locale=en" alt="JunaidS111" /></p>
