@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/junedshekh111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junedshekh111" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01fa64b6397f16f802" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/784bea3c3aba6ca5173e3e172d0f5507e7714230/images/svg/upwork.svg" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
